@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this research record, please cite the project and its author."
+title: "Genomic and Molecular Analysis of a 17p13.3 Microdeletion and Its Candidate Visual-Neurological Mechanisms"
+type: report
+authors:
+  - family-names: "Laing"
+    given-names: "Zachariah P."
+    orcid: "https://orcid.org/0009-0004-8765-4601"
+version: "1.0"
+date-released: "2026-09-30"
+license: "CC-BY-SA-3.0"
+abstract: >-
+  Six-phase first-pass genomic, molecular, expression, perturbational, and mechanistic analysis of a heterozygous GRCh37/hg19 chr17:1,411,408-1,841,103 deletion. The frozen interpretation supports a biologically consequential distributed visual-neural functional-reserve model while direct causation of epileptic photosensitivity by the exact CNV remains unresolved.
+keywords:
+  - genomics
+  - copy-number variant
+  - 17p13.3
+  - microdeletion
+  - retina
+  - neuroscience
+  - photosensitivity
+  - epilepsy
+  - bioinformatics
+repository-code: ""
